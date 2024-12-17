@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and Solidity!
+- 🌱 I’m currently learning Pentesting!
 - 📫 How to reach me: ederlopesborella@gmail.com or in my <a href="https://www.linkedin.com/in/eder-borella">LinkedIn</a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderBorella)](https://github.com/anuraghazra/github-readme-stats)
 
