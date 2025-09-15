@@ -1,20 +1,78 @@
-### Hi there 👋
+### Hi there 👋 I'm Eder Borella
 
-- 🌱 I’m currently learning LLM engineering.
-- 📫 How to reach me: ederlopesborella@gmail.com or in my <a href="https://www.linkedin.com/in/eder-borella">LinkedIn</a>
+**Software Engineer | Full-Stack Developer | Problem Solver**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderBorella)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate and tool-agnostic software engineer with over 4 years of experience building scalable, user-centric solutions. I believe in solving problems first, then choosing the right technology for the job. Well-crafted code is the consequence, not the goal.
 
-<img src="https://user-images.githubusercontent.com/94374354/202450147-cfd51e19-6d1b-49df-b834-890d17945197.png" width="60" height="60" /><img src="https://cdn.freebiesupply.com/logos/large/2x/dotnet-logo-png-transparent.png" width="60" height="60" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202450261-41f7c6c3-01e5-477a-9bec-5fadcf2508a7.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202450364-1cba09ea-7dd3-41f6-adc1-02384724e656.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202450432-9721384d-7ffa-4c5a-8976-7cd765d85a00.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202450767-3c99cd10-a690-4cc2-912d-94caffe7c964.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202450842-16ee6af7-de9a-44cd-bb4f-5685edf8c2bc.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202451005-89819ece-f4c2-4523-b3c5-e724464ad633.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202451105-33157685-5e55-45d1-8d7b-34e2d689c5f9.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202451520-1c1a5b4e-c055-4153-a0f0-1f4845a589f7.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202452507-2e90666e-ab12-45a9-943a-0472b98a18a0.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202452828-24f091ec-6980-4dff-8a8c-7ea1e63ce9b4.png" width="60" height="60" /><img src="https://user-images.githubusercontent.com/94374354/202453149-e01cd290-b044-482e-b470-73ea8ae180ab.png" width="60" height="60" />
+- 🌱 I’m currently deepening my knowledge in **LLM Engineering** and **Applied AI**.
+- 💼 I’m open to collaborating on innovative **full-stack** or **AI-integration** projects.
+- 🚀 I enjoy turning complex problems into efficient, maintainable, and impactful software.
+- 📫 How to reach me: 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-eder--borella-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eder-borella)
+  [![Email](https://img.shields.io/badge/Email-ederlopesborella%40gmail.com-red?style=flat&logo=gmail)](mailto:ederlopesborella@gmail.com)
 
-<!--
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+I'm comfortable across the stack and always eager to learn new tools for the right challenge.
+
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend:**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases & Search:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat&logo=apache-solr&logoColor=white)
+
+**Tools & Methods:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0D8ABC?style=flat&logo=agile&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-25A162?style=flat)
+
+---
+
+### 🚀 Featured Projects
+
+Here are some projects I've built to solve real problems:
+
+1.  **Filap - Live Q&A Platform** ([GitHub](https://github.com/EderBorella/filap))  
+    A full-stack, multi-tenant app for real-time anonymous Q&A sessions. Built with **React 19, Python, Flask, and PostgreSQL**. Features real-time updates via Server-Sent Events (SSE), upvoting, and host controls.
+
+2.  **Arcane Desk - RPG Companion Web App** ([GitHub](https://github.com/EderBorella/arcane-desk))  
+    A full-stack app for Dungeon Masters and RPG players built with **SvelteKit and TypeScript**. Integrates a self-hosted LLM (Mistral-7B) for AI-assisted character sheet generation.
+
+3.  **Coverstaff Vetting System** (Proprietary)  
+    Led the full-stack development of a critical vetting and timesheet system using **C#, ASP.NET, and SQL**, accelerating project delivery by 40%.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+[![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderBorella&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderBorella&layout=compact&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+*Note: Top Languages reflects public code and may not reflect overall experience.*
+
+---
+
+### ✨ Fun Facts / Beyond Code
+
+- ⚡ **Fun Fact:** I have a background in Technical Design!
+- 🌍 I'm fluent in English and Portuguese, and conversational in Italian and Spanish.
+- 🌱 I'm currently experimenting with building an Automated Greenhouse System using MicroPython.
