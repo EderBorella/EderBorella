@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | Problem Solver**
 
-I'm a passionate and tool-agnostic software engineer with over 4 years of experience building scalable, user-centric solutions. I believe in solving problems first, then choosing the right technology for the job. Well-crafted code is the consequence, not the goal.
+> **Software Engineer with 5 years of full-stack experience** who believes engineering is about solving problems; **well-crafted code is the consequence, not the goal.** I focus on delivering solutions that are efficient, avoid over-engineering, and are easy for users, maintainers, and the business. I am fundamentally **tool-agnostic**, believing the problem should dictate the architecture.
 
 - 🌱 I’m currently deepening my knowledge in **LLM Engineering** and **Applied AI**.
 - 💼 I’m open to collaborating on innovative **full-stack** or **AI-integration** projects.
