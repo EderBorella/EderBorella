@@ -1,78 +1,214 @@
-### Hi there 👋 I'm Eder Borella
+# Hi, I'm Eder Borella 👋
 
-**Software Engineer | Full-Stack Developer | Problem Solver**
+### Software Engineer · AI Engineering · Systems Architecture
 
-> **Software Engineer with 5 years of full-stack experience** who believes engineering is about solving problems; **well-crafted code is the consequence, not the goal.** I focus on delivering solutions that are efficient, avoid over-engineering, and are easy for users, maintainers, and the business. I am fundamentally **tool-agnostic**, believing the problem should dictate the architecture.
+I'm a software engineer with **6 years of professional experience** building production systems, primarily with **C#, .NET and Azure**, with a strong focus on backend engineering, distributed systems, performance and architecture.
 
-- 🌱 I’m currently deepening my knowledge in **LLM Engineering** and **Applied AI**.
-- 💼 I’m open to collaborating on innovative **full-stack** or **AI-integration** projects.
-- 🚀 I enjoy turning complex problems into efficient, maintainable, and impactful software.
-- 📫 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-eder--borella-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eder-borella)
-  [![Email](https://img.shields.io/badge/Email-ederlopesborella%40gmail.com-red?style=flat&logo=gmail)](mailto:ederlopesborella@gmail.com)
+More recently, I've been working at the intersection of **software engineering and AI**, particularly interested in how autonomous agents can be incorporated into real engineering workflows without sacrificing control, reliability or safety.
 
----
+> **Engineering is about solving problems. Well-crafted code is the consequence, not the goal.**
 
-### 🛠️ Technologies & Tools
-
-I'm comfortable across the stack and always eager to learn new tools for the right challenge.
-
-**Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend:**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases & Search:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat&logo=apache-solr&logoColor=white)
-
-**Tools & Methods:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0D8ABC?style=flat&logo=agile&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-25A162?style=flat)
+I'm fundamentally **tool-agnostic**: the problem should dictate the architecture, technology and level of abstraction.
 
 ---
 
-### 🚀 Featured Projects
+## 📫 Connect
 
-Here are some projects I've built to solve real problems:
-
-1.  **Filap - Live Q&A Platform** ([GitHub](https://github.com/EderBorella/filap))  
-    A full-stack, multi-tenant app for real-time anonymous Q&A sessions. Built with **React 19, Python, Flask, and PostgreSQL**. Features real-time updates via Server-Sent Events (SSE), upvoting, and host controls.
-
-2.  **Arcane Desk - RPG Companion Web App** ([GitHub](https://github.com/EderBorella/arcane-desk))  
-    A full-stack app for Dungeon Masters and RPG players built with **SvelteKit and TypeScript**. Integrates a self-hosted LLM (Mistral-7B) for AI-assisted character sheet generation.
-
-3.  **Coverstaff Vetting System** (Proprietary)  
-    Led the full-stack development of a critical vetting and timesheet system using **C#, ASP.NET, and SQL**, accelerating project delivery by 40%.
+[LinkedIn](https://www.linkedin.com/in/eder-borella/) · [Email](mailto:ederlopesborella@gmail.com)
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🧠 AI Engineering & Architecture
 
-[![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderBorella&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderBorella&layout=compact&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+My current focus is **AI engineering rather than simply AI integration**.
 
-*Note: Top Languages reflects public code and may not reflect overall experience.*
+I'm particularly interested in:
+
+* 🤖 **Agentic systems & autonomous software engineering**
+* 🧩 **Multi-agent orchestration and agent coordination**
+* 🏗️ **System architecture and bounded execution**
+* 🔒 **Sandboxing, isolation and security boundaries**
+* 🔄 **State machines and deterministic orchestration**
+* 📋 **Product → feature → story → task decomposition**
+* 🛠️ **AI-powered developer tooling**
+* 📊 **Observability, cost and execution tracking**
+* 🔌 **Provider-agnostic AI integrations**
+* ⚡ **Performance, scalability and reliability**
+
+I treat AI agents as **engineering components inside a larger system**, rather than treating an LLM as the system itself.
 
 ---
 
-### ✨ Fun Facts / Beyond Code
+## 🚀 VibeBoard
 
-- ⚡ **Fun Fact:** I have a background in Technical Design!
-- 🌍 I'm fluent in English and Portuguese, and conversational in Italian and Spanish.
-- 🌱 I'm currently experimenting with building an Automated Greenhouse System using MicroPython.
+### AI Engineering Infrastructure for Autonomous Coding Agents
+
+**VibeBoard** is a local-first cockpit for building software with AI coding agents.
+
+The core idea is simple:
+
+> **Give agents enough freedom to do meaningful engineering work, while keeping the surrounding system in control.**
+
+The project combines a product-oriented Kanban workflow with autonomous coding agents. Work is represented through three linked levels:
+
+**Features → Stories → Tasks**
+
+Agents can plan, implement, review and test work while the system maintains the state and boundaries around their execution.
+
+### Architecture
+
+VibeBoard deliberately separates **decision-making, persistence, orchestration and execution**.
+
+* 🧠 **Deterministic core** — orchestration decisions are driven by a state machine rather than prompts
+* 🗂️ **Markdown-based project state** — cards are files, making project state readable, versionable and Git-friendly
+* ⚙️ **Agent orchestration** — autonomous workflows coordinate planning, implementation, review and testing
+* 🐳 **Containerised execution** — each project gets isolated agent containers
+* 🔐 **Capability boundaries** — agents operate within controlled filesystem and network boundaries
+* 🔑 **Per-card credentials** — agents interact with the project through constrained API access
+* 📡 **Event-driven updates** — filesystem changes are propagated live between the board and agents
+* 📊 **Execution observability** — runs track time, tokens and cost
+* 🛑 **Operational controls** — execution can be stopped at multiple levels, including terminating all agents
+
+The architecture is intentionally designed around **controlled autonomy**: the agent can be powerful inside its execution boundary without becoming a trusted component of the host system.
+
+[VibeBoard →](https://github.com/EderBorella/vibeboard)
+
+---
+
+## 🏗️ Engineering Background
+
+My professional work is primarily focused on **backend and enterprise systems**.
+
+I've worked with:
+
+* High-volume and data-intensive workflows
+* .NET microservices
+* Distributed systems
+* Azure infrastructure
+* SQL performance optimisation
+* CI/CD and deployment automation
+* Enterprise financial systems
+* Full-stack product development
+* LLM-powered internal applications
+
+One example from production work: I redesigned a high-volume reconciliation process and reduced execution time from **45 seconds to 1.3 seconds** through database indexing and query redesign.
+
+---
+
+## 🔬 Other Projects
+
+### Filap — Real-Time Q&A Platform
+
+A multi-tenant platform for real-time anonymous Q&A.
+
+Built with **React, Python, Flask, PostgreSQL and Server-Sent Events**, with real-time synchronisation, voting, queue management and host controls.
+
+[View project →](https://github.com/EderBorella/filap)
+
+### Arcane Desk — AI-Powered RPG Companion
+
+A full-stack application built with **SvelteKit and TypeScript**, integrating a self-hosted **Mistral-7B** model for AI-assisted content generation.
+
+The project explores practical LLM integration while maintaining control over the application architecture and model deployment.
+
+[View project →](https://github.com/EderBorella/arcane-desk)
+
+---
+
+## 🛠️ Technologies
+
+### Backend & Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET / ASP.NET Core" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.simpleicons.org/flask/000000/ffffff" height="40" alt="Flask" title="Flask" />
+</p>
+
+
+### AI & Engineering
+
+<p>
+  <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" height="40" alt="Ollama" title="Ollama" />
+  <img src="https://cdn.simpleicons.org/anthropic/191919/ffffff" height="40" alt="Anthropic" title="Anthropic" />
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2310a37f&height=40" height="40" alt="OpenAI" title="OpenAI" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/000000/ffffff" height="40" alt="Model Context Protocol (MCP)" title="Model Context Protocol (MCP)" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
+  <img src="https://cdn.simpleicons.org/qdrant" height="40" alt="Qdrant" title="Qdrant" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+</p>
+
+<sub>LLM integration · AI agents · RAG · MCP servers · self-hosted models</sub>
+  
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" title="Azure DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" />
+  <img src="https://api.iconify.design/bi/terminal-fill.svg?color=%237d8590&height=40" height="40" alt="SSH" title="SSH" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+</p>
+
+### Data & Storage
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.simpleicons.org/apachesolr" height="40" alt="Apache Solr" title="Apache Solr" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" alt="Svelte / SvelteKit" title="Svelte / SvelteKit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+</p>
+
+### Testing & Quality
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="Vitest" title="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" />
+</p>
+
+<sub>TDD · mutation testing · component-driven development · Agile</sub>
+
+---
+
+## 🎓 Currently
+
+**ATHE Level 7 Diploma in Computing Technologies — Artificial Intelligence**
+
+Continuing to deepen my knowledge across AI, software engineering and the systems required to turn AI capabilities into reliable software.
+
+---
+
+## 🌍 Languages
+🇧🇷 **Portuguese** — Native
+
+🇬🇧 **English** — Fluent
+
+🇮🇹 **Italian** — Advanced
+
+🇪🇸 **Spanish** — Intermediate
