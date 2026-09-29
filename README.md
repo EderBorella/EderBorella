@@ -128,6 +128,8 @@ The project explores practical LLM integration while maintaining control over th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
   <img src="https://cdn.simpleicons.org/flask/000000/ffffff" height="40" alt="Flask" title="Flask" />
+  <img src="https://cdn.simpleicons.org/fastify/000000/ffffff" height="40" alt="Fastify" title="Fastify" />
+  <img src="https://api.iconify.design/iconmind/websocket-outline-bold.svg?color=%237d8590&height=40" height="40" alt="WebSockets" title="WebSockets" />
 </p>
 
 
@@ -142,10 +144,12 @@ The project explores practical LLM integration while maintaining control over th
   <img src="https://cdn.simpleicons.org/qdrant" height="40" alt="Qdrant" title="Qdrant" />
   <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face" title="Hugging Face" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />  
+  <img src="https://cdn.simpleicons.org/claudecode" height="40" alt="Claude Code" title="Claude Code" />
+  <img src="https://cdn.simpleicons.org/opencode/000000/ffffff" height="40" alt="OpenCode" title="OpenCode" />  
 </p>
 
-<sub>LLM integration · AI agents · RAG · MCP servers · self-hosted models</sub>
+<sub>LLM engineering · AI agents · RAG · MCP servers · self-hosted models</sub>
   
 ### DevOps & Infrastructure
 
@@ -190,6 +194,8 @@ The project explores practical LLM integration while maintaining control over th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="Vitest" title="Vitest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" />
+  <img src="https://cdn.simpleicons.org/stryker" height="40" alt="Stryker (mutation testing)" title="Stryker (mutation testing)" />
+  <img src="https://cdn.simpleicons.org/biome" height="40" alt="Biome" title="Biome" />
 </p>
 
 <sub>TDD · mutation testing · component-driven development · Agile</sub>
